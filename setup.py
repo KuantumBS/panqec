@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 requirements = ["PyMatching>=0.2.4",
-                "numpy>=1.22.0",
+                "numpy>=1.23.0",
                 "scipy>=1.8.0",
                 "tqdm>=4.59.0",
                 "python-dotenv>=0.17.0",
