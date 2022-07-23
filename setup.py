@@ -10,7 +10,7 @@ requirements = ["PyMatching>=0.2.4",
                 "ldpc>=0.1.0",
                 "click>=8.1.2",
                 "Flask>=2.1.1",
-                "pandas<=1.4.2"]
+                "pandas>=1.4.2"]
 
 setup(
     name='panqec',
